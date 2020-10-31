@@ -20,8 +20,8 @@ Dataset is divided in 5 folds and 4 folds are taken as train and 5th is used as 
   
   - Used Data preprocessing methods such as croping and aligning using MTCNN and DLib but they were not of much help.
   
-### Future Works
-  - Deployment on the web 
+### New Approach
+- WE have trained model using state-of-the-art image pretrained model EfficientNet and achived far better results than previous approach based on VGG. We have achieved 93.8% validation accuracy for Gender and 89.4% for Age classification.
 
 
 
